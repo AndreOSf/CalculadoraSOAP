@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\Calculadora_Client\Calculadora_Client\bin\Release\Calculadora_Client.exe.config
+C:\Users\andre\source\repos\Calculadora_Client\Calculadora_Client\bin\Release\Calculadora_Client.exe
+C:\Users\andre\source\repos\Calculadora_Client\Calculadora_Client\bin\Release\Calculadora_Client.pdb
+C:\Users\andre\source\repos\Calculadora_Client\Calculadora_Client\obj\Release\Calculadora_Client.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Calculadora_Client\Calculadora_Client\obj\Release\Calculadora_Client.exe
+C:\Users\andre\source\repos\Calculadora_Client\Calculadora_Client\obj\Release\Calculadora_Client.pdb
